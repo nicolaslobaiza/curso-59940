@@ -1,0 +1,49 @@
+
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    
+
+    .seccionprincipal{
+        background-color: aqua;
+    }
+
+    .seccionprincipal header nav ul{
+        display: flex;
+        gap: 10px;
+    }
+
+    .header div img{
+        width: 30px;
+    }
+    
+    
+    
+    .header{
+        
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+ .contactos{
+    background-color: beige;
+   }
+    
+  .turnos{
+    background-color: aquamarine;
+    }
+
+    .informacion{
+        background-color: greenyellow;
+    }
+
+.boton{
+    background-color: green;
+}
+
+
